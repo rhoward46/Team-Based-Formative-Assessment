@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Formative Teams</string>
+    <string name="title_activity_current_assessments">CurrentAssessmentsActivity</string>
+    <string name="title_activity_completed_assessments">CompletedAssessmentsActivity</string>
+    <string name="title_activity_team_leaderboard">TeamLeaderboardActivity</string>
+    <string name="login_as_a_teacher">Login as a teacher</string>
+    <string name="login_as_a_student">Login as a student</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="please_login_below">Please login below!</string>
+    <string name="assessment">Assessment</string>
+    <string name="score">Score</string>
+    <string name="due_date">Due Date</string>
+    <string name="student_name">Student Name</string>
+    <string name="team_name">Team Name</string>
+    <string name="todo_assessments">ToDo Assessments</string>
+    <string name="completed_assessments">Completed Assessments</string>
+    <string name="team_leaderboard">Team Leaderboard</string>
+    <string name="goal">goal</string>
+    <string name="question">question</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="please_select_assign_student_to_one_of_the_teams_below">Please select assign student to one of the teams below</string>
+    <string name="enter_password_here_as_a_single_string">Password</string>
+    <string name="enter_username_hereas_a_single_string">Username</string>
+    <string name="enter_last_name_here">Last name</string>
+    <string name="enter_first_name_here">First name</string>
+</resources>

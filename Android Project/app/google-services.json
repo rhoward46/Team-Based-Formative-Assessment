@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "202293944339",
+    "firebase_url": "https://edtech-83c15.firebaseio.com",
+    "project_id": "edtech-83c15",
+    "storage_bucket": "edtech-83c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202293944339:android:b8b4073339b066ae",
+        "android_client_info": {
+          "package_name": "com.example.ronnie.formativeteams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202293944339-t9slrcvdn00l8oiac8kivehf11utpf4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ronnie.formativeteams",
+            "certificate_hash": "80e29d3600d8727885c759fe66c1cbdb2b33f6ef"
+          }
+        },
+        {
+          "client_id": "202293944339-4to7atv4ou4lntlkkrl3gjle5bh0vld7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgzr57lrCrkv1HaadiKelkMSQJ8W37w20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202293944339-4to7atv4ou4lntlkkrl3gjle5bh0vld7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

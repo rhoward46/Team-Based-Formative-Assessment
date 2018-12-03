@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity">
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Create Assessment"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/create_assessment_view"
+        android:padding="16dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Create New Student"
+        app:layout_constraintTop_toBottomOf="@+id/create_assessment_view"
+        android:id="@+id/create_student_view"
+        android:padding="16dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Create New Team"
+        app:layout_constraintTop_toBottomOf="@+id/create_student_view"
+        android:id="@+id/create_team_view"
+        android:padding="16dp"
+        />
+
+</android.support.constraint.ConstraintLayout>
